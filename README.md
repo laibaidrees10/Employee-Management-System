@@ -59,6 +59,7 @@ This project is a simple console-based Employee Management System written in C++
 
 ![image](https://github.com/user-attachments/assets/4803e60c-b883-4cc4-9ee3-4404a5ad7f32)
 
+![image](https://github.com/user-attachments/assets/57b64ea7-4179-452f-b626-711b2a16de4b)
 
 
 # Notes
