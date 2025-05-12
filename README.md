@@ -40,7 +40,7 @@ This project is a simple console-based Employee Management System written in C++
 
 # Files Included
 
-* Problem1.h — Header file.
+* Event.h — Header file.
 
 * main.cpp — Main source file containing implementation of all functions and program logic.
 
